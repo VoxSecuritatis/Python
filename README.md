@@ -1,4 +1,4 @@
-# Python Portfolio – Landing Page
+# Python Portfolio
 
 Python is one of the most versatile programming languages in the world, powering everything from simple scripts to large-scale machine learning systems. This page is a showcase of my work with Python, reflecting both technical capability and applied problem-solving. Each project emphasizes not just code, but design principles, maintainability, and integration with modern tools such as AI support libraries.
 
