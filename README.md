@@ -2,7 +2,7 @@
 
 Python is one of the most versatile programming languages in the world, powering everything from simple scripts to large-scale machine learning systems. This page is a showcase of my work with Python, reflecting both technical capability and applied problem-solving. Each project emphasizes not just code, but design principles, maintainability, and integration with modern tools such as AI support libraries.
 
-I have focused on building projects that highlight real-world applicability, demonstrate mastery of Python’s ecosystem, and integrate advanced features such as **data visualization**, **automation**, and **AI-enhanced reporting**. These projects are structured with best practices in mind: clear documentation, modular code, version control, and reproducibility across environments (Windows, PowerShell, VSCode, and Google Colab).  
+I have focused on building projects that highlight real-world applicability, demonstrate mastery of Python’s ecosystem, and integrate advanced features such as **data visualization**, **automation**, and **AI-enhanced applications**. These projects are structured with best practices in mind: clear documentation, modular code, version control, and reproducibility across environments (Windows, PowerShell, VSCode, GitHub Codespaces, GitHub Models, and Google Colab).  
 
 ---
 
@@ -38,4 +38,8 @@ The **Data Quality Analyzer (DQA)** is a Python-based application that automatic
 
 ## Other Projects
 
-**[Tech Jargon Buster]
+**[Tech Jargon Buster](https://
+
+---
+
+© 2025 Brock Frary. All rights reserved.
