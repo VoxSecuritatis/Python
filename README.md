@@ -40,6 +40,14 @@ The **Data Quality Analyzer (DQA)** is a Python-based application that automatic
 
 **[Tech Jargon Buster](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)**
 
+**Tech Jargon Buster** is a Streamlit-powered application designed to make IT and cybersecurity terminology accessible to everyone.
+
+By connecting to multiple state-of-the-art Large Language Models (LLMs) via GitHub Models, the app provides side-by-side, plain-English explanations of complex technical terms, enriched with real-world analogies.
+
+This project showcases the integration of modern AI tools into an easy-to-use interface, supporting both local development (Codespaces/desktop) and cloud deployment (Streamlit Community Cloud).
+
+It highlights practical AI application development, secure token handling, and multi-model orchestration in a single, user-friendly app.
+
 ---
 
 © 2025 Brock Frary. All rights reserved.
