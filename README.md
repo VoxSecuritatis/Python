@@ -36,3 +36,6 @@ One of the unique aspects of my Python work is **AI integration**. By incorporat
 
 The **Data Quality Analyzer (DQA)** is a Python-based application that automatically analyzes CSV datasets for quality issues and produces professional HTML reports. It showcases my ability to integrate Python with AI-driven guidance, ensuring results are not only correct but also actionable.  
 
+## Other Projects
+
+**[Tech Jargon Buster]
