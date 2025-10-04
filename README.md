@@ -38,7 +38,7 @@ The **Data Quality Analyzer (DQA)** is a Python-based application that automatic
 
 ## Other Projects
 
-**[Tech Jargon Buster](https://
+**[Tech Jargon Buster](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)**
 
 ---
 
