@@ -44,6 +44,12 @@ The **Data Quality Analyzer (DQA)** is a Python-based application that automatic
 **Tech Jargon Buster** is a Streamlit application that simplifies IT and cybersecurity terms into clear, plain-English explanations. It connects to multiple advanced Large Language Models via GitHub Models to provide side-by-side comparisons enriched with real-world analogies.
 The project demonstrates practical AI integration, secure token management, and multi-model orchestration in a single, user-friendly platform.
 
+**[Transcriber](https://github.com/VoxSecuritatis/Project-Python-AI-Transcriber)**
+
+**Transcriber** is an AI-powered audio assistant that connects directly to **ChatGPT** through the OpenAI API.  It intelligently handles large MP3 recordings by automatically splitting them into manageable segments, sending each one to the language model for accurate transcription.  
+
+Once all parts are processed, **Transcriber** seamlessly merges them into a single, polished master transcript — then goes a step further by generating **concise, structured study notes** from the content.  In just one run, you receive both a **complete transcript** and **ready-to-use notes**, turning hours of audio into clear, insightful summaries for students, professionals, and lifelong learners alike.  
+
 ---
 
 © 2025 Brock Frary. All rights reserved.
