@@ -48,7 +48,11 @@ The project demonstrates practical AI integration, secure token management, and 
 
 **Transcriber** is an AI-powered audio assistant that connects directly to **ChatGPT** through the OpenAI API.  It intelligently handles large MP3 recordings by automatically splitting them into manageable segments, sending each one to the language model for accurate transcription.  
 
-Once all parts are processed, **Transcriber** seamlessly merges them into a single, polished master transcript — then goes a step further by generating **concise, structured study notes** from the content.  In just one run, you receive both a **complete transcript** and **ready-to-use notes**, turning hours of audio into clear, insightful summaries for students, professionals, and lifelong learners alike.  
+Once all parts are processed, **Transcriber** seamlessly merges them into a single, polished master transcript — then goes a step further by generating **concise, structured study notes** from the content.  In just one run, you receive both a **complete transcript** and **ready-to-use notes**, turning hours of audio into clear, insightful summaries for students, professionals, and lifelong learners alike.
+
+**[Personal Board of Directors](https://github.com/VoxSecuritatis/Project-AI-PBoD)**
+
+**Personal Board of Directors** is a virtual board of directors with 60+ personas of leaders throughout history from Budda to Branson, from Putin to Pope Francis - an AI chatbot.  Utilizes all information available on the persona available and customizes your question in terms of the chosen personas.  The application provides full persona opinion, summarizes the board decisions including sentiment analysis, agreements/disagreements.  It also provides an exportable markdown format report for further analysis.
 
 ---
 
