@@ -1,5 +1,5 @@
 # Python Portfolio
-Published: 2025-10-01 | Updated: 2025-10-06
+Published: 2025-10-01 | Updated: 2026-01-16
 
 Python is one of the most versatile programming languages in the world, powering everything from simple scripts to large-scale machine learning systems. This page is a showcase of my work with Python, reflecting both technical capability and applied problem-solving. Each project emphasizes not just code, but design principles, maintainability, and integration with modern tools such as AI support libraries.
 
@@ -56,4 +56,4 @@ Once all parts are processed, **Transcriber** seamlessly merges them into a sing
 
 ---
 
-© 2025 Brock Frary. All rights reserved.
+© 2026 Brock Frary. All rights reserved.
