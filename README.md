@@ -1,5 +1,5 @@
 # Python Portfolio
-Published: 2025-10-01 | Updated: 2026-01-16
+Published: 2025-10-01 | Updated: 2026-06-30
 
 Python is one of the most versatile programming languages in the world, powering everything from simple scripts to large-scale machine learning systems. This page is a showcase of my work with Python, reflecting both technical capability and applied problem-solving. Each project emphasizes not just code, but design principles, maintainability, and integration with modern tools such as AI support libraries.
 
@@ -33,11 +33,14 @@ One of the unique aspects of my Python work is **AI integration**. By incorporat
 
 ## Featured Project
 
-📌 **[Data Quality Analyzer (DQA)](https://github.com/VoxSecuritatis/data-quality-analyzer)**  
-
-The **Data Quality Analyzer (DQA)** is a Python-based application that automatically analyzes CSV datasets for quality issues and produces professional HTML reports. It showcases my ability to integrate Python with AI-driven guidance, ensuring results are not only correct but also actionable.  
+**[everything2md](https://github.com/VoxSecuritatis/everything2md)** 
+everything2md is a bidirectional batch file converter that transforms PDF, DOCX, TXT, HTML, RTF, and EPUB documents into Markdown — and converts them back. It ships with a PySide6 GUI (with a built-in file mover) and a full CLI, recursively processing entire directory trees while preserving images and metadata in sidecar folders alongside each output file. Built in Python 3.12 with OCR support for image-only PDF pages via RapidOCR.
 
 ## Other Projects
+
+**[Data Quality Analyzer (DQA)](https://github.com/VoxSecuritatis/data-quality-analyzer)**  
+
+The **Data Quality Analyzer (DQA)** is a Python-based application that automatically analyzes CSV datasets for quality issues and produces professional HTML reports. It showcases my ability to integrate Python with AI-driven guidance, ensuring results are not only correct but also actionable.  
 
 **[Tech Jargon Buster](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)**
 
