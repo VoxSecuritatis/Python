@@ -34,7 +34,7 @@ One of the unique aspects of my Python work is **AI integration**. By incorporat
 ## Featured Project
 
 **[everything2md](https://github.com/VoxSecuritatis/everything2md)** 
-everything2md is a bidirectional batch file converter that transforms PDF, DOCX, TXT, HTML, RTF, and EPUB documents into Markdown — and converts them back. It ships with a PySide6 GUI (with a built-in file mover) and a full CLI, recursively processing entire directory trees while preserving images and metadata in sidecar folders alongside each output file. Built in Python 3.12 with OCR support for image-only PDF pages via RapidOCR.
+everything2md is a bidirectional batch file converter that transforms PDF, DOCX, TXT, HTML, RTF, and EPUB documents into Markdown -- and converts them back. It ships with a PySide6 GUI (with a built-in file mover) and a full CLI, recursively processing entire directory trees while preserving images and metadata in sidecar folders alongside each output file. Built in Python 3.12 with OCR support for image-only PDF pages via RapidOCR.
 
 ## Other Projects
 
